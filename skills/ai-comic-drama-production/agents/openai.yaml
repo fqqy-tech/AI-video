@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Comic Drama Production"
+  short_description: "AI漫剧提示词、分镜与质量评分工作流。"
+  default_prompt: "Use $ai-comic-drama-production to turn this script beat into a complete AI comic-drama video prompt."
+
+policy:
+  allow_implicit_invocation: true
